@@ -1,0 +1,2 @@
+echo "within fileA from the command line"
+
